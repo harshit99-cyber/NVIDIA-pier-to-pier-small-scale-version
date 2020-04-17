@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node-gpu": "^1.7.1",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "file-on-write": "^1.1.1",
+    "mjpeg-camera": "^2.0.0",
+    "mkdirp": "^1.0.3",
+    "req-fast": "^0.2.19",
+    "synaptic": "^1.1.4",
+    "yarn": "^1.22.4"
+  }
+}
